@@ -26,3 +26,4 @@ $titulo='Entrar'; include __DIR__.'/includes/header.php';
 <form method="post"><div class="field"><label>Usuário</label><input name="usuario" required></div><div class="field"><label>Senha</label><input type="password" name="senha" required></div><button type="submit">Entrar</button></form>
 <p class="muted">Acesso de demonstração: admin / admin123</p></div>
 <?php include __DIR__.'/includes/footer.php'; ?>
+
